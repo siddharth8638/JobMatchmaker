@@ -21,27 +21,27 @@ Recruiter <--> Candidate [Matched!]
 
 Use this contract address to interact with the system and retrieve matchmaking results.
 
-## How it Works:
+## How it Works
 1. **Candidate Registration**: Candidates register their profiles, including skillsets, work preferences, and test scores.
 2. **Recruiter Registration**: Recruiters define their job requirements and desired candidate skills.
 3. **Skill Testing**: Recruiters set up tests from basic to advanced levels, and candidates take these tests. Test scores are stored on-chain.
 4. **Matchmaking Algorithm**: The system matches candidates and recruiters based on skill compatibility, work preference alignment, and test scores.
 5. **On-chain Results**: Match results, including the match score, are stored on the Ethereum blockchain, ensuring transparency and immutability.
 
-## Smart Contract Breakdown:
+## Smart Contract Breakdown
 - **Candidate Profiles**: Stores candidates' skills, test scores, and work preferences.
 - **Recruiter Requirements**: Stores job-related data, including required skills and job preferences.
 - **Matchmaking**: Calculates a match score based on the skill match, work preference compatibility, and test results.
 - **On-Chain Storage**: Match results are securely stored on-chain, accessible by both recruiters and candidates.
 
-## Future Scope:
+## Future Scope
 1. **Data Privacy**: Implement advanced encryption and privacy mechanisms (e.g., zk-SNARKs) to protect sensitive candidate and recruiter data.
 2. **Decentralized Testing**: Enable decentralized storage and retrieval of test results using decentralized file storage systems (e.g., IPFS).
 3. **Dynamic Matching**: Allow continuous updates to recruiter needs and candidate preferences to dynamically adjust match scores.
 4. **Integration with Layer 2 Solutions**: To scale the application and reduce gas fees, the system will be optimized for Layer 2 networks like Arbitrum or Optimism.
 5. **Analytics**: Add analytical insights for recruiters to evaluate the performance of the candidates over time and track hiring efficiency.
 
-## Contact Details:
+## Contact Details
 For inquiries, collaboration, or any feedback, feel free to reach out:
 
 - **Developer**: [Siddharth Darjee]
