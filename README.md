@@ -16,10 +16,6 @@ Matchmaking Algorithm -> [Skills, Preferences, Test Scores]
                 |
 Recruiter <--> Candidate [Matched!]
 
-Smart Contract Address
-The contract is deployed on the Ethereum test network (Goerli) at the following address:
-0x1234567890ABCDEF1234567890ABCDEF12345678
-
 How it Works
 Candidate Registration: Candidates register their profiles, including skillsets, work preferences, and test scores.
 Recruiter Registration: Recruiters define their job requirements and desired candidate skills.
@@ -45,6 +41,14 @@ Developer: [Siddharth Darjee]
 Email: [siddharthdarjee@gmail.com]
 GitHub: [github.com/siddharth8638]
 LinkedIn: [linkedin.com/in/siddharth-darjee]
+
+##Deployment
+
+Contract Address: 0x89cf3faeaed5d40ac67b63ce5ca55b6612229f68
+![Screenshot 2024-08-27 161533](https://github.com/user-attachments/assets/bf75e713-47a5-4dc6-876e-e371d9ff8236)
+
+
+
 
 
 
