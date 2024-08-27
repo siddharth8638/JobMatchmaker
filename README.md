@@ -1,4 +1,4 @@
-Graduate-Recruiter Matchmaking System
+#Graduate-Recruiter Matchmaking System
 
 Vision
 Our project aims to bridge the gap between new graduates and recruiters by providing an efficient and transparent matchmaking system. Recruiters can assess candidates through skill tests and find the best matches based on their specific requirements and the candidate’s work preferences. Test results and matchmaking data are securely stored on-chain for transparency and accountability.
